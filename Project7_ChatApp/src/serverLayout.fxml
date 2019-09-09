@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<GridPane alignment="CENTER" minHeight="90.0" minWidth="160.0" prefHeight="450.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <rowConstraints>
+
+      <RowConstraints valignment="TOP" vgrow="ALWAYS" />
+      <RowConstraints valignment="CENTER" />
+      <RowConstraints valignment="CENTER" />
+   </rowConstraints>
+   <children>
+      <HBox alignment="CENTER" fillHeight="false" minHeight="10.0" minWidth="160.0" prefHeight="100.0" prefWidth="800.0" style="-fx-background-color: #202124; -fx-border-width: 0 0 .5 0; -fx-border-color: black;" GridPane.halignment="CENTER" GridPane.hgrow="ALWAYS" GridPane.valignment="BASELINE" GridPane.vgrow="ALWAYS">
+         <children>
+            <Label alignment="CENTER" contentDisplay="CENTER" ellipsisString="" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" minHeight="10.0" minWidth="160.0" prefHeight="100.0" prefWidth="800.0" style="-fx-font-family: futura;" text="Host IP Address:" textFill="#fcfcfc" textOverrun="CLIP" wrapText="true" HBox.hgrow="ALWAYS">
+               <font>
+                  <Font name="Futura Medium" size="50.0" />
+               </font>
+            </Label>
+         </children>
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+         <cursor>
+            <Cursor fx:constant="DEFAULT" />
+         </cursor></HBox>
+      <HBox alignment="CENTER" prefHeight="250.0" prefWidth="800.0" style="-fx-background-color: #202124#202124;" GridPane.rowIndex="1">
+         <children>
+            <Text fill="#fcfcfc" fontSmoothingType="LCD" strokeType="OUTSIDE" strokeWidth="0.0" text="IP: " textAlignment="CENTER" wrappingWidth="797.890625">
+               <font>
+                  <Font name="Futura Medium" size="100.0" />
+               </font>
+            </Text>
+         </children>
+      </HBox>
+      <HBox prefHeight="150.0" prefWidth="200.0" style="-fx-background-color: #202124#202124 #202124#202124;" GridPane.halignment="CENTER" GridPane.hgrow="ALWAYS" GridPane.rowIndex="2" GridPane.valignment="CENTER" GridPane.vgrow="ALWAYS">
+         <children>
+            <Text fill="#fcfcfc" fontSmoothingType="LCD" strokeType="OUTSIDE" strokeWidth="0.0" text="Port: 4243" textAlignment="CENTER" wrappingWidth="797.890625">
+               <font>
+                  <Font name="Futura Medium" size="100.0" />
+               </font>
+            </Text>
+         </children>
+      </HBox>
+   </children>
+   <columnConstraints>
+      <ColumnConstraints />
+      <ColumnConstraints />
+      <ColumnConstraints />
+      <ColumnConstraints />
+   </columnConstraints>
+</GridPane>

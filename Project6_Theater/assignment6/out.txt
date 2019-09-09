@@ -1,0 +1,6007 @@
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: A1                    |
+| Client: 310                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: B1                    |
+| Client: 440                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: C1                    |
+| Client: 320                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: D1                    |
+| Client: 330                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: E1                    |
+| Client: 439                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: F1                    |
+| Client: 319                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: G1                    |
+| Client: 309                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: H1                    |
+| Client: 329                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: I1                    |
+| Client: 438                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: J1                    |
+| Client: 318                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: K1                    |
+| Client: 328                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: L1                    |
+| Client: 308                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: M1                    |
+| Client: 437                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: N1                    |
+| Client: 307                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: O1                    |
+| Client: 327                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: P1                    |
+| Client: 317                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: Q1                    |
+| Client: 326                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: R1                    |
+| Client: 306                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: S1                    |
+| Client: 436                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: T1                    |
+| Client: 316                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: U1                    |
+| Client: 325                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: V1                    |
+| Client: 315                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: W1                    |
+| Client: 435                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: X1                    |
+| Client: 305                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: Y1                    |
+| Client: 324                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: Z1                    |
+| Client: 434                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AA1                   |
+| Client: 314                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AB1                   |
+| Client: 304                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AC1                   |
+| Client: 323                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AD1                   |
+| Client: 313                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AE1                   |
+| Client: 303                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AF1                   |
+| Client: 433                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AG1                   |
+| Client: 312                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AH1                   |
+| Client: 432                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AI1                   |
+| Client: 302                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AJ1                   |
+| Client: 322                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AK1                   |
+| Client: 321                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AL1                   |
+| Client: 311                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AM1                   |
+| Client: 431                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AN1                   |
+| Client: 301                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AO1                   |
+| Client: 620                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AP1                   |
+| Client: 640                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AQ1                   |
+| Client: 430                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AR1                   |
+| Client: 300                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AS1                   |
+| Client: 618                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AT1                   |
+| Client: 638                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AU1                   |
+| Client: 429                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AV1                   |
+| Client: 299                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AW1                   |
+| Client: 616                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AX1                   |
+| Client: 636                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AY1                   |
+| Client: 428                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AZ1                   |
+| Client: 298                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: BA1                   |
+| Client: 614                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: BB1                   |
+| Client: 634                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: BC1                   |
+| Client: 427                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: BD1                   |
+| Client: 297                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: BE1                   |
+| Client: 612                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: BF1                   |
+| Client: 632                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: BG1                   |
+| Client: 426                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: BH1                   |
+| Client: 296                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: BI1                   |
+| Client: 610                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: BJ1                   |
+| Client: 630                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: BK1                   |
+| Client: 425                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: BL1                   |
+| Client: 295                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: BM1                   |
+| Client: 608                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: BN1                   |
+| Client: 628                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: BO1                   |
+| Client: 424                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: BP1                   |
+| Client: 294                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: BQ1                   |
+| Client: 626                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: BR1                   |
+| Client: 606                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: BS1                   |
+| Client: 423                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: BT1                   |
+| Client: 293                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: BU1                   |
+| Client: 604                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: BV1                   |
+| Client: 624                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: BW1                   |
+| Client: 422                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: BX1                   |
+| Client: 292                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: BY1                   |
+| Client: 622                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: BZ1                   |
+| Client: 602                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: CA1                   |
+| Client: 421                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: CB1                   |
+| Client: 291                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: CC1                   |
+| Client: 1240                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: CD1                   |
+| Client: 600                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: CE1                   |
+| Client: 420                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: CF1                   |
+| Client: 290                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: CG1                   |
+| Client: 1236                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: CH1                   |
+| Client: 598                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: CI1                   |
+| Client: 419                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: CJ1                   |
+| Client: 289                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: CK1                   |
+| Client: 596                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: CL1                   |
+| Client: 1232                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: CM1                   |
+| Client: 418                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: CN1                   |
+| Client: 288                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: CO1                   |
+| Client: 594                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: CP1                   |
+| Client: 1228                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: CQ1                   |
+| Client: 417                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: CR1                   |
+| Client: 287                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: CS1                   |
+| Client: 592                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: CT1                   |
+| Client: 1224                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: CU1                   |
+| Client: 416                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: CV1                   |
+| Client: 286                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: CW1                   |
+| Client: 590                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: CX1                   |
+| Client: 1220                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: CY1                   |
+| Client: 415                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: CZ1                   |
+| Client: 285                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: DA1                   |
+| Client: 588                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: DB1                   |
+| Client: 1216                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: DC1                   |
+| Client: 284                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: DD1                   |
+| Client: 414                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: DE1                   |
+| Client: 586                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: DF1                   |
+| Client: 1212                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: DG1                   |
+| Client: 283                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: DH1                   |
+| Client: 413                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: DI1                   |
+| Client: 584                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: DJ1                   |
+| Client: 1208                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: DK1                   |
+| Client: 412                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: DL1                   |
+| Client: 282                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: DM1                   |
+| Client: 1204                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: DN1                   |
+| Client: 582                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: DO1                   |
+| Client: 411                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: DP1                   |
+| Client: 281                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: DQ1                   |
+| Client: 580                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: DR1                   |
+| Client: 1200                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: DS1                   |
+| Client: 280                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: DT1                   |
+| Client: 410                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: DU1                   |
+| Client: 578                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: DV1                   |
+| Client: 1196                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: DW1                   |
+| Client: 279                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: DX1                   |
+| Client: 409                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: DY1                   |
+| Client: 1192                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: DZ1                   |
+| Client: 576                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: EA1                   |
+| Client: 278                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: EB1                   |
+| Client: 408                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: EC1                   |
+| Client: 1188                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: ED1                   |
+| Client: 574                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: EE1                   |
+| Client: 277                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: EF1                   |
+| Client: 407                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: EG1                   |
+| Client: 1184                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: EH1                   |
+| Client: 572                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: EI1                   |
+| Client: 276                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: EJ1                   |
+| Client: 406                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: EK1                   |
+| Client: 570                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: EL1                   |
+| Client: 1180                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: EM1                   |
+| Client: 275                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: EN1                   |
+| Client: 405                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: EO1                   |
+| Client: 568                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: EP1                   |
+| Client: 1176                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: EQ1                   |
+| Client: 274                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: ER1                   |
+| Client: 404                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: ES1                   |
+| Client: 566                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: ET1                   |
+| Client: 1172                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: EU1                   |
+| Client: 273                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: EV1                   |
+| Client: 403                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: EW1                   |
+| Client: 564                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: EX1                   |
+| Client: 1168                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: EY1                   |
+| Client: 272                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: EZ1                   |
+| Client: 402                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: FA1                   |
+| Client: 562                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: FB1                   |
+| Client: 1164                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: FC1                   |
+| Client: 271                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: FD1                   |
+| Client: 401                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: FE1                   |
+| Client: 1160                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: FF1                   |
+| Client: 560                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: FG1                   |
+| Client: 400                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: FH1                   |
+| Client: 270                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: FI1                   |
+| Client: 1156                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: FJ1                   |
+| Client: 558                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: FK1                   |
+| Client: 399                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: FL1                   |
+| Client: 269                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: FM1                   |
+| Client: 556                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: FN1                   |
+| Client: 1152                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: FO1                   |
+| Client: 398                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: FP1                   |
+| Client: 268                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: FQ1                   |
+| Client: 1148                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: FR1                   |
+| Client: 554                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: FS1                   |
+| Client: 397                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: FT1                   |
+| Client: 267                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: FU1                   |
+| Client: 1144                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: FV1                   |
+| Client: 552                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: FW1                   |
+| Client: 396                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: FX1                   |
+| Client: 266                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: FY1                   |
+| Client: 1140                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: FZ1                   |
+| Client: 550                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: GA1                   |
+| Client: 395                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: GB1                   |
+| Client: 265                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: GC1                   |
+| Client: 1136                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: GD1                   |
+| Client: 548                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: GE1                   |
+| Client: 394                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: GF1                   |
+| Client: 264                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: GG1                   |
+| Client: 1132                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: GH1                   |
+| Client: 546                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: GI1                   |
+| Client: 393                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: GJ1                   |
+| Client: 263                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: GK1                   |
+| Client: 1128                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: GL1                   |
+| Client: 544                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: GM1                   |
+| Client: 262                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: GN1                   |
+| Client: 392                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: GO1                   |
+| Client: 1124                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: GP1                   |
+| Client: 542                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: GQ1                   |
+| Client: 391                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: GR1                   |
+| Client: 261                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: GS1                   |
+| Client: 1120                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: GT1                   |
+| Client: 540                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: GU1                   |
+| Client: 390                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: GV1                   |
+| Client: 260                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: GW1                   |
+| Client: 1116                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: GX1                   |
+| Client: 538                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: GY1                   |
+| Client: 389                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: GZ1                   |
+| Client: 259                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: HA1                   |
+| Client: 536                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: HB1                   |
+| Client: 1112                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: HC1                   |
+| Client: 388                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: HD1                   |
+| Client: 258                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: HE1                   |
+| Client: 534                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: HF1                   |
+| Client: 1108                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: HG1                   |
+| Client: 387                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: HH1                   |
+| Client: 257                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: HI1                   |
+| Client: 532                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: HJ1                   |
+| Client: 1104                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: HK1                   |
+| Client: 386                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: HL1                   |
+| Client: 256                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: HM1                   |
+| Client: 530                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: HN1                   |
+| Client: 1100                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: HO1                   |
+| Client: 385                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: HP1                   |
+| Client: 255                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: HQ1                   |
+| Client: 528                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: HR1                   |
+| Client: 1096                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: HS1                   |
+| Client: 384                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: HT1                   |
+| Client: 254                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: HU1                   |
+| Client: 1092                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: HV1                   |
+| Client: 526                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: HW1                   |
+| Client: 383                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: HX1                   |
+| Client: 253                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: HY1                   |
+| Client: 1088                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: HZ1                   |
+| Client: 524                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: IA1                   |
+| Client: 252                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: IB1                   |
+| Client: 382                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: IC1                   |
+| Client: 1084                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: ID1                   |
+| Client: 522                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: IE1                   |
+| Client: 381                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: IF1                   |
+| Client: 251                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: IG1                   |
+| Client: 520                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: IH1                   |
+| Client: 1080                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: II1                   |
+| Client: 380                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: IJ1                   |
+| Client: 250                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: IK1                   |
+| Client: 518                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: IL1                   |
+| Client: 1076                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: IM1                   |
+| Client: 379                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: IN1                   |
+| Client: 249                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: IO1                   |
+| Client: 1072                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: IP1                   |
+| Client: 516                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: IQ1                   |
+| Client: 378                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: IR1                   |
+| Client: 248                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: IS1                   |
+| Client: 514                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: IT1                   |
+| Client: 1068                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: IU1                   |
+| Client: 377                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: IV1                   |
+| Client: 247                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: IW1                   |
+| Client: 512                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: IX1                   |
+| Client: 1064                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: IY1                   |
+| Client: 376                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: IZ1                   |
+| Client: 246                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: JA1                   |
+| Client: 510                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: JB1                   |
+| Client: 1060                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: JC1                   |
+| Client: 375                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: JD1                   |
+| Client: 245                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: JE1                   |
+| Client: 508                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: JF1                   |
+| Client: 1056                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: JG1                   |
+| Client: 374                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: JH1                   |
+| Client: 244                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: JI1                   |
+| Client: 1052                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: JJ1                   |
+| Client: 506                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: JK1                   |
+| Client: 373                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: JL1                   |
+| Client: 243                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: JM1                   |
+| Client: 504                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: JN1                   |
+| Client: 1048                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: JO1                   |
+| Client: 372                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: JP1                   |
+| Client: 242                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: JQ1                   |
+| Client: 502                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: JR1                   |
+| Client: 1044                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: JS1                   |
+| Client: 371                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: JT1                   |
+| Client: 241                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: JU1                   |
+| Client: 1040                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: JV1                   |
+| Client: 500                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: JW1                   |
+| Client: 370                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: JX1                   |
+| Client: 240                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: JY1                   |
+| Client: 1036                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: JZ1                   |
+| Client: 498                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: KA1                   |
+| Client: 239                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: KB1                   |
+| Client: 369                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: KC1                   |
+| Client: 496                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: KD1                   |
+| Client: 1032                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: KE1                   |
+| Client: 238                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: KF1                   |
+| Client: 368                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: KG1                   |
+| Client: 494                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: KH1                   |
+| Client: 1028                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: KI1                   |
+| Client: 237                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: KJ1                   |
+| Client: 367                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: KK1                   |
+| Client: 1024                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: KL1                   |
+| Client: 492                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: KM1                   |
+| Client: 366                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: KN1                   |
+| Client: 236                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: KO1                   |
+| Client: 1020                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: KP1                   |
+| Client: 490                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: KQ1                   |
+| Client: 365                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: KR1                   |
+| Client: 235                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: KS1                   |
+| Client: 1016                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: KT1                   |
+| Client: 488                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: KU1                   |
+| Client: 364                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: KV1                   |
+| Client: 234                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: KW1                   |
+| Client: 1012                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: KX1                   |
+| Client: 486                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: KY1                   |
+| Client: 363                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: KZ1                   |
+| Client: 233                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: LA1                   |
+| Client: 484                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: LB1                   |
+| Client: 1008                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: LC1                   |
+| Client: 362                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: LD1                   |
+| Client: 232                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: LE1                   |
+| Client: 482                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: LF1                   |
+| Client: 1004                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: LG1                   |
+| Client: 361                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: LH1                   |
+| Client: 231                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: LI1                   |
+| Client: 480                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: LJ1                   |
+| Client: 1000                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: LK1                   |
+| Client: 230                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: LL1                   |
+| Client: 360                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: LM1                   |
+| Client: 996                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: LN1                   |
+| Client: 478                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: LO1                   |
+| Client: 229                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: LP1                   |
+| Client: 359                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: LQ1                   |
+| Client: 476                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: LR1                   |
+| Client: 992                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: LS1                   |
+| Client: 228                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: LT1                   |
+| Client: 358                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: LU1                   |
+| Client: 474                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: LV1                   |
+| Client: 988                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: LW1                   |
+| Client: 227                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: LX1                   |
+| Client: 357                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: LY1                   |
+| Client: 472                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: LZ1                   |
+| Client: 984                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: MA1                   |
+| Client: 226                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: MB1                   |
+| Client: 356                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: MC1                   |
+| Client: 980                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: MD1                   |
+| Client: 470                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: ME1                   |
+| Client: 225                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: MF1                   |
+| Client: 355                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: MG1                   |
+| Client: 976                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: MH1                   |
+| Client: 468                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: MI1                   |
+| Client: 224                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: MJ1                   |
+| Client: 354                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: MK1                   |
+| Client: 972                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: ML1                   |
+| Client: 466                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: MM1                   |
+| Client: 353                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: MN1                   |
+| Client: 223                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: MO1                   |
+| Client: 464                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: MP1                   |
+| Client: 968                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: MQ1                   |
+| Client: 352                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: MR1                   |
+| Client: 222                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: MS1                   |
+| Client: 462                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: MT1                   |
+| Client: 964                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: MU1                   |
+| Client: 351                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: MV1                   |
+| Client: 221                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: MW1                   |
+| Client: 460                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: MX1                   |
+| Client: 960                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: MY1                   |
+| Client: 220                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: MZ1                   |
+| Client: 350                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: NA1                   |
+| Client: 458                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: NB1                   |
+| Client: 956                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: NC1                   |
+| Client: 219                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: ND1                   |
+| Client: 349                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: NE1                   |
+| Client: 952                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: NF1                   |
+| Client: 456                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: NG1                   |
+| Client: 218                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: NH1                   |
+| Client: 348                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: NI1                   |
+| Client: 948                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: NJ1                   |
+| Client: 454                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: NK1                   |
+| Client: 217                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: NL1                   |
+| Client: 347                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: NM1                   |
+| Client: 944                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: NN1                   |
+| Client: 452                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: NO1                   |
+| Client: 216                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: NP1                   |
+| Client: 346                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: NQ1                   |
+| Client: 940                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: NR1                   |
+| Client: 450                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: NS1                   |
+| Client: 215                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: NT1                   |
+| Client: 345                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: NU1                   |
+| Client: 448                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: NV1                   |
+| Client: 936                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: NW1                   |
+| Client: 214                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: NX1                   |
+| Client: 344                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: NY1                   |
+| Client: 932                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: NZ1                   |
+| Client: 446                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: OA1                   |
+| Client: 213                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: OB1                   |
+| Client: 343                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: OC1                   |
+| Client: 928                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: OD1                   |
+| Client: 444                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: OE1                   |
+| Client: 212                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: OF1                   |
+| Client: 342                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: OG1                   |
+| Client: 924                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: OH1                   |
+| Client: 442                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: OI1                   |
+| Client: 341                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: OJ1                   |
+| Client: 211                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: OK1                   |
+| Client: 880                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: OL1                   |
+| Client: 920                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: OM1                   |
+| Client: 340                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: ON1                   |
+| Client: 210                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: OO1                   |
+| Client: 876                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: OP1                   |
+| Client: 916                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: OQ1                   |
+| Client: 339                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: OR1                   |
+| Client: 209                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: OS1                   |
+| Client: 912                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: OT1                   |
+| Client: 872                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: OU1                   |
+| Client: 338                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: OV1                   |
+| Client: 208                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: OW1                   |
+| Client: 908                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: OX1                   |
+| Client: 868                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: OY1                   |
+| Client: 207                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: OZ1                   |
+| Client: 337                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: PA1                   |
+| Client: 904                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: PB1                   |
+| Client: 864                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: PC1                   |
+| Client: 206                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: PD1                   |
+| Client: 336                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: PE1                   |
+| Client: 860                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: PF1                   |
+| Client: 900                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: PG1                   |
+| Client: 335                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: PH1                   |
+| Client: 205                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: PI1                   |
+| Client: 896                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: PJ1                   |
+| Client: 856                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: PK1                   |
+| Client: 334                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: PL1                   |
+| Client: 204                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: PM1                   |
+| Client: 852                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: PN1                   |
+| Client: 892                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: PO1                   |
+| Client: 203                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: PP1                   |
+| Client: 333                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: PQ1                   |
+| Client: 848                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: PR1                   |
+| Client: 888                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: PS1                   |
+| Client: 202                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: PT1                   |
+| Client: 332                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: PU1                   |
+| Client: 844                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: PV1                   |
+| Client: 884                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: PW1                   |
+| Client: 201                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: PX1                   |
+| Client: 331                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: PY1                   |
+| Client: 840                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: PZ1                   |
+| Client: 1760                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: QA1                   |
+| Client: 200                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: QB1                   |
+| Client: 660                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: QC1                   |
+| Client: 836                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: QD1                   |
+| Client: 1752                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: QE1                   |
+| Client: 199                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: QF1                   |
+| Client: 658                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: QG1                   |
+| Client: 832                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: QH1                   |
+| Client: 1744                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: QI1                   |
+| Client: 198                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: QJ1                   |
+| Client: 656                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: QK1                   |
+| Client: 828                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: QL1                   |
+| Client: 1736                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: QM1                   |
+| Client: 197                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: QN1                   |
+| Client: 654                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: QO1                   |
+| Client: 1728                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: QP1                   |
+| Client: 824                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: QQ1                   |
+| Client: 196                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: QR1                   |
+| Client: 652                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: QS1                   |
+| Client: 820                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: QT1                   |
+| Client: 1720                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: QU1                   |
+| Client: 195                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: QV1                   |
+| Client: 650                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: QW1                   |
+| Client: 816                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: QX1                   |
+| Client: 1712                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: QY1                   |
+| Client: 194                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: QZ1                   |
+| Client: 648                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: RA1                   |
+| Client: 812                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: RB1                   |
+| Client: 1704                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: RC1                   |
+| Client: 646                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: RD1                   |
+| Client: 193                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: RE1                   |
+| Client: 808                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: RF1                   |
+| Client: 1696                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: RG1                   |
+| Client: 644                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: RH1                   |
+| Client: 192                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: RI1                   |
+| Client: 804                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: RJ1                   |
+| Client: 1688                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: RK1                   |
+| Client: 642                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: RL1                   |
+| Client: 191                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: RM1                   |
+| Client: 800                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: RN1                   |
+| Client: 1680                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: RO1                   |
+| Client: 1280                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: RP1                   |
+| Client: 190                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: RQ1                   |
+| Client: 796                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: RR1                   |
+| Client: 1672                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: RS1                   |
+| Client: 1276                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: RT1                   |
+| Client: 189                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: RU1                   |
+| Client: 792                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: RV1                   |
+| Client: 1664                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: RW1                   |
+| Client: 188                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: RX1                   |
+| Client: 1272                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: RY1                   |
+| Client: 788                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: RZ1                   |
+| Client: 187                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: SA1                   |
+| Client: 1268                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: SB1                   |
+| Client: 1656                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: SC1                   |
+| Client: 186                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: SD1                   |
+| Client: 1648                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: SE1                   |
+| Client: 1264                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: SF1                   |
+| Client: 784                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: SG1                   |
+| Client: 1640                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: SH1                   |
+| Client: 1260                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: SI1                   |
+| Client: 185                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: SJ1                   |
+| Client: 780                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: SK1                   |
+| Client: 1632                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: SL1                   |
+| Client: 1256                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: SM1                   |
+| Client: 184                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: SN1                   |
+| Client: 776                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: SO1                   |
+| Client: 1624                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: SP1                   |
+| Client: 1252                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: SQ1                   |
+| Client: 183                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: SR1                   |
+| Client: 772                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: SS1                   |
+| Client: 1616                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: ST1                   |
+| Client: 1248                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: SU1                   |
+| Client: 182                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: SV1                   |
+| Client: 768                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: SW1                   |
+| Client: 1608                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: SX1                   |
+| Client: 1244                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: SY1                   |
+| Client: 181                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: SZ1                   |
+| Client: 764                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: TA1                   |
+| Client: 1600                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: TB1                   |
+| Client: 2480                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: TC1                   |
+| Client: 180                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: TD1                   |
+| Client: 760                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: TE1                   |
+| Client: 2472                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: TF1                   |
+| Client: 1592                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: TG1                   |
+| Client: 179                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: TH1                   |
+| Client: 756                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: TI1                   |
+| Client: 1584                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: TJ1                   |
+| Client: 2464                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: TK1                   |
+| Client: 178                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: TL1                   |
+| Client: 752                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: TM1                   |
+| Client: 2456                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: TN1                   |
+| Client: 1576                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: TO1                   |
+| Client: 177                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: TP1                   |
+| Client: 748                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: TQ1                   |
+| Client: 2448                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: TR1                   |
+| Client: 1568                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: TS1                   |
+| Client: 176                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: TT1                   |
+| Client: 744                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: TU1                   |
+| Client: 2440                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: TV1                   |
+| Client: 1560                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: TW1                   |
+| Client: 740                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: TX1                   |
+| Client: 175                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: TY1                   |
+| Client: 2432                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: TZ1                   |
+| Client: 1552                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: UA1                   |
+| Client: 736                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: UB1                   |
+| Client: 174                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: UC1                   |
+| Client: 2424                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: UD1                   |
+| Client: 1544                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: UE1                   |
+| Client: 732                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: UF1                   |
+| Client: 173                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: UG1                   |
+| Client: 2416                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: UH1                   |
+| Client: 1536                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: UI1                   |
+| Client: 728                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: UJ1                   |
+| Client: 172                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: UK1                   |
+| Client: 2408                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: UL1                   |
+| Client: 1528                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: UM1                   |
+| Client: 724                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: UN1                   |
+| Client: 171                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: UO1                   |
+| Client: 2400                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: UP1                   |
+| Client: 1520                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: UQ1                   |
+| Client: 720                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: UR1                   |
+| Client: 170                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: US1                   |
+| Client: 2392                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: UT1                   |
+| Client: 1512                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: UU1                   |
+| Client: 169                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: UV1                   |
+| Client: 716                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: UW1                   |
+| Client: 2384                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: UX1                   |
+| Client: 1504                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: UY1                   |
+| Client: 168                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: UZ1                   |
+| Client: 712                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: VA1                   |
+| Client: 2376                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: VB1                   |
+| Client: 1496                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: VC1                   |
+| Client: 708                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: VD1                   |
+| Client: 167                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: VE1                   |
+| Client: 2368                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: VF1                   |
+| Client: 1488                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: VG1                   |
+| Client: 704                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: VH1                   |
+| Client: 166                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: VI1                   |
+| Client: 2360                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: VJ1                   |
+| Client: 1480                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: VK1                   |
+| Client: 700                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: VL1                   |
+| Client: 165                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: VM1                   |
+| Client: 2352                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: VN1                   |
+| Client: 1472                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: VO1                   |
+| Client: 164                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: VP1                   |
+| Client: 696                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: VQ1                   |
+| Client: 2344                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: VR1                   |
+| Client: 1464                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: VS1                   |
+| Client: 163                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: VT1                   |
+| Client: 692                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: VU1                   |
+| Client: 2336                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: VV1                   |
+| Client: 1456                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: VW1                   |
+| Client: 688                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: VX1                   |
+| Client: 162                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: VY1                   |
+| Client: 1448                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: VZ1                   |
+| Client: 2328                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: WA1                   |
+| Client: 684                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: WB1                   |
+| Client: 161                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: WC1                   |
+| Client: 1440                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: WD1                   |
+| Client: 2320                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: WE1                   |
+| Client: 680                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: WF1                   |
+| Client: 160                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: WG1                   |
+| Client: 2312                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: WH1                   |
+| Client: 1432                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: WI1                   |
+| Client: 159                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: WJ1                   |
+| Client: 676                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: WK1                   |
+| Client: 1424                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: WL1                   |
+| Client: 2304                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: WM1                   |
+| Client: 672                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: WN1                   |
+| Client: 158                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: WO1                   |
+| Client: 2296                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: WP1                   |
+| Client: 1416                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: WQ1                   |
+| Client: 668                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: WR1                   |
+| Client: 157                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: WS1                   |
+| Client: 2288                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: WT1                   |
+| Client: 1408                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: WU1                   |
+| Client: 664                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: WV1                   |
+| Client: 156                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: WW1                   |
+| Client: 2280                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: WX1                   |
+| Client: 1400                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: WY1                   |
+| Client: 1320                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: WZ1                   |
+| Client: 155                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: XA1                   |
+| Client: 2272                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: XB1                   |
+| Client: 1392                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: XC1                   |
+| Client: 1312                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: XD1                   |
+| Client: 154                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: XE1                   |
+| Client: 1384                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: XF1                   |
+| Client: 2264                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: XG1                   |
+| Client: 1304                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: XH1                   |
+| Client: 153                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: XI1                   |
+| Client: 2256                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: XJ1                   |
+| Client: 1376                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: XK1                   |
+| Client: 1296                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: XL1                   |
+| Client: 152                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: XM1                   |
+| Client: 2248                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: XN1                   |
+| Client: 1368                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: XO1                   |
+| Client: 1288                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: XP1                   |
+| Client: 151                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: XQ1                   |
+| Client: 2240                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: XR1                   |
+| Client: 1360                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: XS1                   |
+| Client: 2560                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: XT1                   |
+| Client: 150                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: XU1                   |
+| Client: 2232                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: XV1                   |
+| Client: 1352                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: XW1                   |
+| Client: 2544                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: XX1                   |
+| Client: 149                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: XY1                   |
+| Client: 2224                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: XZ1                   |
+| Client: 1344                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: YA1                   |
+| Client: 148                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: YB1                   |
+| Client: 2528                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: YC1                   |
+| Client: 2216                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: YD1                   |
+| Client: 1336                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: YE1                   |
+| Client: 147                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: YF1                   |
+| Client: 2512                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: YG1                   |
+| Client: 1328                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: YH1                   |
+| Client: 2208                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: YI1                   |
+| Client: 2496                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: YJ1                   |
+| Client: 146                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: YK1                   |
+| Client: 2200                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: YL1                   |
+| Client: 2640                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: YM1                   |
+| Client: 4960                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: YN1                   |
+| Client: 145                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: YO1                   |
+| Client: 2624                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: YP1                   |
+| Client: 2192                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: YQ1                   |
+| Client: 4928                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: YR1                   |
+| Client: 144                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: YS1                   |
+| Client: 2608                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: YT1                   |
+| Client: 2184                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: YU1                   |
+| Client: 4896                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: YV1                   |
+| Client: 143                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: YW1                   |
+| Client: 2176                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: YX1                   |
+| Client: 2592                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: YY1                   |
+| Client: 142                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: YZ1                   |
+| Client: 4864                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: ZA1                   |
+| Client: 2168                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: ZB1                   |
+| Client: 2576                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: ZC1                   |
+| Client: 141                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: ZD1                   |
+| Client: 4832                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: ZE1                   |
+| Client: 2160                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: ZF1                   |
+| Client: 5120                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: ZG1                   |
+| Client: 140                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: ZH1                   |
+| Client: 4800                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: ZI1                   |
+| Client: 2152                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: ZJ1                   |
+| Client: 5088                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: ZK1                   |
+| Client: 4768                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: ZL1                   |
+| Client: 139                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: ZM1                   |
+| Client: 2144                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: ZN1                   |
+| Client: 5056                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: ZO1                   |
+| Client: 138                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: ZP1                   |
+| Client: 4736                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: ZQ1                   |
+| Client: 2136                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: ZR1                   |
+| Client: 5024                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: ZS1                   |
+| Client: 137                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: ZT1                   |
+| Client: 4704                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: ZU1                   |
+| Client: 2128                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: ZV1                   |
+| Client: 4992                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: ZW1                   |
+| Client: 136                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: ZX1                   |
+| Client: 4672                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: ZY1                   |
+| Client: 9920                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: ZZ1                   |
+| Client: 2120                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AAA1                  |
+| Client: 135                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AAB1                  |
+| Client: 4640                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AAC1                  |
+| Client: 2112                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AAD1                  |
+| Client: 9856                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AAE1                  |
+| Client: 134                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AAF1                  |
+| Client: 4608                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AAG1                  |
+| Client: 2104                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AAH1                  |
+| Client: 9792                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AAI1                  |
+| Client: 133                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AAJ1                  |
+| Client: 4576                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AAK1                  |
+| Client: 2096                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AAL1                  |
+| Client: 9728                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AAM1                  |
+| Client: 132                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AAN1                  |
+| Client: 4544                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AAO1                  |
+| Client: 2088                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AAP1                  |
+| Client: 9664                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AAQ1                  |
+| Client: 131                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AAR1                  |
+| Client: 4512                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AAS1                  |
+| Client: 9600                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AAT1                  |
+| Client: 2080                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AAU1                  |
+| Client: 130                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AAV1                  |
+| Client: 4480                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AAW1                  |
+| Client: 9536                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AAX1                  |
+| Client: 2072                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AAY1                  |
+| Client: 129                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AAZ1                  |
+| Client: 4448                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: ABA1                  |
+| Client: 9472                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: ABB1                  |
+| Client: 2064                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: ABC1                  |
+| Client: 128                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: ABD1                  |
+| Client: 4416                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: ABE1                  |
+| Client: 9408                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: ABF1                  |
+| Client: 2056                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: ABG1                  |
+| Client: 127                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: ABH1                  |
+| Client: 4384                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: ABI1                  |
+| Client: 9344                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: ABJ1                  |
+| Client: 2048                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: ABK1                  |
+| Client: 126                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: ABL1                  |
+| Client: 4352                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: ABM1                  |
+| Client: 9280                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: ABN1                  |
+| Client: 2040                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: ABO1                  |
+| Client: 125                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: ABP1                  |
+| Client: 4320                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: ABQ1                  |
+| Client: 2032                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: ABR1                  |
+| Client: 9216                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: ABS1                  |
+| Client: 124                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: ABT1                  |
+| Client: 4288                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: ABU1                  |
+| Client: 2024                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: ABV1                  |
+| Client: 9152                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: ABW1                  |
+| Client: 123                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: ABX1                  |
+| Client: 4256                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: ABY1                  |
+| Client: 2016                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: ABZ1                  |
+| Client: 9088                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: ACA1                  |
+| Client: 122                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: ACB1                  |
+| Client: 4224                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: ACC1                  |
+| Client: 2008                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: ACD1                  |
+| Client: 9024                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: ACE1                  |
+| Client: 121                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: ACF1                  |
+| Client: 4192                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: ACG1                  |
+| Client: 2000                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: ACH1                  |
+| Client: 8960                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: ACI1                  |
+| Client: 120                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: ACJ1                  |
+| Client: 4160                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: ACK1                  |
+| Client: 1992                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: ACL1                  |
+| Client: 8896                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: ACM1                  |
+| Client: 119                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: ACN1                  |
+| Client: 4128                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: ACO1                  |
+| Client: 1984                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: ACP1                  |
+| Client: 8832                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: ACQ1                  |
+| Client: 118                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: ACR1                  |
+| Client: 4096                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: ACS1                  |
+| Client: 1976                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: ACT1                  |
+| Client: 8768                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: ACU1                  |
+| Client: 117                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: ACV1                  |
+| Client: 4064                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: ACW1                  |
+| Client: 1968                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: ACX1                  |
+| Client: 8704                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: ACY1                  |
+| Client: 116                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: ACZ1                  |
+| Client: 4032                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: ADA1                  |
+| Client: 1960                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: ADB1                  |
+| Client: 8640                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: ADC1                  |
+| Client: 115                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: ADD1                  |
+| Client: 4000                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: ADE1                  |
+| Client: 8576                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: ADF1                  |
+| Client: 1952                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: ADG1                  |
+| Client: 114                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: ADH1                  |
+| Client: 3968                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: ADI1                  |
+| Client: 8512                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: ADJ1                  |
+| Client: 1944                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: ADK1                  |
+| Client: 113                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: ADL1                  |
+| Client: 3936                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: ADM1                  |
+| Client: 8448                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: ADN1                  |
+| Client: 1936                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: ADO1                  |
+| Client: 112                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: ADP1                  |
+| Client: 3904                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: ADQ1                  |
+| Client: 8384                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: ADR1                  |
+| Client: 1928                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: ADS1                  |
+| Client: 111                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: ADT1                  |
+| Client: 3872                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: ADU1                  |
+| Client: 1920                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: ADV1                  |
+| Client: 8320                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: ADW1                  |
+| Client: 110                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: ADX1                  |
+| Client: 3840                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: ADY1                  |
+| Client: 1912                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: ADZ1                  |
+| Client: 8256                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AEA1                  |
+| Client: 109                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AEB1                  |
+| Client: 1904                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AEC1                  |
+| Client: 3808                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AED1                  |
+| Client: 8192                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AEE1                  |
+| Client: 108                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AEF1                  |
+| Client: 1888                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AEG1                  |
+| Client: 1896                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AEH1                  |
+| Client: 8128                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AEI1                  |
+| Client: 107                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AEJ1                  |
+| Client: 1872                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AEK1                  |
+| Client: 3776                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AEL1                  |
+| Client: 8064                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AEM1                  |
+| Client: 106                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AEN1                  |
+| Client: 1856                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AEO1                  |
+| Client: 8000                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AEP1                  |
+| Client: 1880                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AEQ1                  |
+| Client: 105                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AER1                  |
+| Client: 1840                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AES1                  |
+| Client: 7936                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AET1                  |
+| Client: 3744                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AEU1                  |
+| Client: 104                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AEV1                  |
+| Client: 1824                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AEW1                  |
+| Client: 1864                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AEX1                  |
+| Client: 7872                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AEY1                  |
+| Client: 103                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AEZ1                  |
+| Client: 1808                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AFA1                  |
+| Client: 3712                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AFB1                  |
+| Client: 7808                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AFC1                  |
+| Client: 102                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AFD1                  |
+| Client: 1792                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AFE1                  |
+| Client: 1848                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AFF1                  |
+| Client: 7744                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AFG1                  |
+| Client: 101                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AFH1                  |
+| Client: 1776                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AFI1                  |
+| Client: 7680                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AFJ1                  |
+| Client: 3680                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AFK1                  |
+| Client: 100                 |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AFL1                  |
+| Client: 3520                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AFM1                  |
+| Client: 7616                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AFN1                  |
+| Client: 1832                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AFO1                  |
+| Client: 99                  |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AFP1                  |
+| Client: 3488                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AFQ1                  |
+| Client: 7552                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AFR1                  |
+| Client: 3648                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AFS1                  |
+| Client: 98                  |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AFT1                  |
+| Client: 3456                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AFU1                  |
+| Client: 1816                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AFV1                  |
+| Client: 7488                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AFW1                  |
+| Client: 97                  |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AFX1                  |
+| Client: 3424                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AFY1                  |
+| Client: 3616                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AFZ1                  |
+| Client: 7424                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AGA1                  |
+| Client: 96                  |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AGB1                  |
+| Client: 3392                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AGC1                  |
+| Client: 1800                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AGD1                  |
+| Client: 7360                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AGE1                  |
+| Client: 95                  |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AGF1                  |
+| Client: 3360                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AGG1                  |
+| Client: 3584                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AGH1                  |
+| Client: 7296                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AGI1                  |
+| Client: 94                  |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AGJ1                  |
+| Client: 3328                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AGK1                  |
+| Client: 1784                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AGL1                  |
+| Client: 7232                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AGM1                  |
+| Client: 93                  |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AGN1                  |
+| Client: 3296                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AGO1                  |
+| Client: 3552                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AGP1                  |
+| Client: 7168                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AGQ1                  |
+| Client: 92                  |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AGR1                  |
+| Client: 3264                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AGS1                  |
+| Client: 1768                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AGT1                  |
+| Client: 7104                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AGU1                  |
+| Client: 91                  |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AGV1                  |
+| Client: 3232                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AGW1                  |
+| Client: 7040                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AGX1                  |
+| Client: 14080               |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AGY1                  |
+| Client: 90                  |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AGZ1                  |
+| Client: 3200                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AHA1                  |
+| Client: 6976                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AHB1                  |
+| Client: 3504                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AHC1                  |
+| Client: 89                  |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AHD1                  |
+| Client: 3168                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AHE1                  |
+| Client: 6912                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AHF1                  |
+| Client: 13952               |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AHG1                  |
+| Client: 88                  |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AHH1                  |
+| Client: 3136                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AHI1                  |
+| Client: 3472                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AHJ1                  |
+| Client: 6848                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AHK1                  |
+| Client: 87                  |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AHL1                  |
+| Client: 3104                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AHM1                  |
+| Client: 13824               |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AHN1                  |
+| Client: 6784                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AHO1                  |
+| Client: 86                  |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AHP1                  |
+| Client: 3072                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AHQ1                  |
+| Client: 3440                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AHR1                  |
+| Client: 6720                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AHS1                  |
+| Client: 85                  |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AHT1                  |
+| Client: 3040                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AHU1                  |
+| Client: 13696               |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AHV1                  |
+| Client: 6656                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AHW1                  |
+| Client: 84                  |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AHX1                  |
+| Client: 3008                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AHY1                  |
+| Client: 3408                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AHZ1                  |
+| Client: 6592                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AIA1                  |
+| Client: 83                  |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AIB1                  |
+| Client: 2976                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AIC1                  |
+| Client: 6528                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AID1                  |
+| Client: 13568               |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AIE1                  |
+| Client: 82                  |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AIF1                  |
+| Client: 2944                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AIG1                  |
+| Client: 6464                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AIH1                  |
+| Client: 3376                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AII1                  |
+| Client: 81                  |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AIJ1                  |
+| Client: 2912                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AIK1                  |
+| Client: 13440               |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AIL1                  |
+| Client: 6400                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AIM1                  |
+| Client: 80                  |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AIN1                  |
+| Client: 2880                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AIO1                  |
+| Client: 6336                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AIP1                  |
+| Client: 3344                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AIQ1                  |
+| Client: 79                  |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AIR1                  |
+| Client: 2848                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AIS1                  |
+| Client: 13312               |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AIT1                  |
+| Client: 6272                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AIU1                  |
+| Client: 78                  |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AIV1                  |
+| Client: 2816                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AIW1                  |
+| Client: 3312                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AIX1                  |
+| Client: 6208                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AIY1                  |
+| Client: 77                  |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AIZ1                  |
+| Client: 2784                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AJA1                  |
+| Client: 13184               |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AJB1                  |
+| Client: 6144                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AJC1                  |
+| Client: 76                  |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AJD1                  |
+| Client: 2752                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AJE1                  |
+| Client: 3280                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AJF1                  |
+| Client: 6080                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AJG1                  |
+| Client: 75                  |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AJH1                  |
+| Client: 2720                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AJI1                  |
+| Client: 13056               |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AJJ1                  |
+| Client: 6016                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AJK1                  |
+| Client: 74                  |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AJL1                  |
+| Client: 2688                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AJM1                  |
+| Client: 3248                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AJN1                  |
+| Client: 5952                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AJO1                  |
+| Client: 73                  |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AJP1                  |
+| Client: 2656                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AJQ1                  |
+| Client: 12928               |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AJR1                  |
+| Client: 5888                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AJS1                  |
+| Client: 72                  |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AJT1                  |
+| Client: 5248                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AJU1                  |
+| Client: 3216                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AJV1                  |
+| Client: 5824                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AJW1                  |
+| Client: 71                  |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AJX1                  |
+| Client: 5184                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AJY1                  |
+| Client: 12800               |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AJZ1                  |
+| Client: 5760                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AKA1                  |
+| Client: 70                  |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AKB1                  |
+| Client: 10240               |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AKC1                  |
+| Client: 5696                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AKD1                  |
+| Client: 3184                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AKE1                  |
+| Client: 69                  |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AKF1                  |
+| Client: 10112               |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AKG1                  |
+| Client: 5632                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AKH1                  |
+| Client: 12672               |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AKI1                  |
+| Client: 68                  |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AKJ1                  |
+| Client: 9984                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AKK1                  |
+| Client: 5568                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AKL1                  |
+| Client: 3152                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AKM1                  |
+| Client: 67                  |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AKN1                  |
+| Client: 19712               |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AKO1                  |
+| Client: 5504                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AKP1                  |
+| Client: 12544               |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AKQ1                  |
+| Client: 66                  |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AKR1                  |
+| Client: 19456               |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AKS1                  |
+| Client: 5440                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AKT1                  |
+| Client: 3120                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AKU1                  |
+| Client: 65                  |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AKV1                  |
+| Client: 19200               |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: AKW1                  |
+| Client: 5376                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: AKX1                  |
+| Client: 12416               |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: AKY1                  |
+| Client: 64                  |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: AKZ1                  |
+| Client: 18944               |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: ALA1                  |
+| Client: 3088                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: ALB1                  |
+| Client: 5312                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: ALC1                  |
+| Client: 63                  |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: ALD1                  |
+| Client: 18688               |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: ALE1                  |
+| Client: 12288               |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: ALF1                  |
+| Client: 10496               |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: ALG1                  |
+| Client: 62                  |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: ALH1                  |
+| Client: 18432               |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: ALI1                  |
+| Client: 3056                |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX3          |
+| Seat: ALJ1                  |
+| Client: 10368               |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX1          |
+| Seat: ALK1                  |
+| Client: 61                  |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX2          |
+| Seat: ALL1                  |
+| Client: 18176               |
+-------------------------------
+-------------------------------
+| Show: Avengers: Endgame     |
+| Box Office ID: BX4          |
+| Seat: ALM1                  |
+| Client: 12160               |
+-------------------------------
+Sorry, we are sold out!

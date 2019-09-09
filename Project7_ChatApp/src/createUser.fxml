@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="450.0" prefWidth="800.0" style="-fx-background-color: #202124#202124;" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label layoutX="39.0" layoutY="70.0" text="Username:" textAlignment="CENTER" textFill="#fcfcfc" AnchorPane.bottomAnchor="350.0" AnchorPane.leftAnchor="40.0" AnchorPane.rightAnchor="630.0" AnchorPane.topAnchor="70.0">
+         <font>
+            <Font name="Futura Medium" size="25.0" />
+         </font>
+      </Label>
+      <Label layoutX="40.0" layoutY="131.0" text="Password:" textAlignment="CENTER" textFill="#fcfcfc" AnchorPane.bottomAnchor="285.0" AnchorPane.leftAnchor="40.0" AnchorPane.rightAnchor="644.0" AnchorPane.topAnchor="132.0">
+         <font>
+            <Font name="Futura Medium" size="25.0" />
+         </font>
+      </Label>
+      <TextField blendMode="LIGHTEN" layoutX="285.0" layoutY="60.0" nodeOrientation="LEFT_TO_RIGHT" prefHeight="51.0" prefWidth="480.0" promptText="Enter username" AnchorPane.bottomAnchor="339.0" AnchorPane.leftAnchor="285.0" AnchorPane.rightAnchor="35.0" AnchorPane.topAnchor="60.0">
+         <font>
+            <Font name="Futura Medium" size="25.0" />
+         </font>
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+      </TextField>
+      <PasswordField layoutX="285.0" layoutY="123.0" prefHeight="51.0" prefWidth="480.0" promptText="Enter Password" AnchorPane.bottomAnchor="276.0" AnchorPane.leftAnchor="285.0" AnchorPane.rightAnchor="35.0" AnchorPane.topAnchor="123.0">
+         <font>
+            <Font name="Futura Medium" size="25.0" />
+         </font>
+      </PasswordField>
+      <Button layoutX="627.0" layoutY="396.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="159.0" style="-fx-background-color: #0084ff#0084ff;" text="Create Account" textFill="WHITE" AnchorPane.bottomAnchor="14.0" AnchorPane.leftAnchor="627.0" AnchorPane.rightAnchor="14.0" AnchorPane.topAnchor="396.0">
+         <font>
+            <Font name="Futura Medium" size="18.0" />
+         </font>
+      </Button>
+      <Label layoutX="39.0" layoutY="198.0" prefHeight="33.0" prefWidth="216.0" text="Confirm Password:" textAlignment="CENTER" textFill="#fcfcfc" AnchorPane.bottomAnchor="219.0" AnchorPane.leftAnchor="39.0" AnchorPane.rightAnchor="545.0" AnchorPane.topAnchor="198.0">
+         <font>
+            <Font name="Futura Medium" size="25.0" />
+         </font>
+      </Label>
+      <PasswordField layoutX="285.0" layoutY="189.0" prefHeight="51.0" prefWidth="480.0" promptText="Enter Password" AnchorPane.bottomAnchor="210.0" AnchorPane.leftAnchor="285.0" AnchorPane.rightAnchor="35.0" AnchorPane.topAnchor="189.0">
+         <font>
+            <Font name="Futura Medium" size="25.0" />
+         </font>
+      </PasswordField>
+      <Button layoutX="19.0" layoutY="396.0" mnemonicParsing="false" onMouseClicked="#showLogin" prefHeight="40.0" prefWidth="159.0" style="-fx-background-color: #0084ff#0084ff;" text="Back" textFill="WHITE" AnchorPane.bottomAnchor="14.0" AnchorPane.leftAnchor="19.0" AnchorPane.rightAnchor="622.0" AnchorPane.topAnchor="396.0">
+         <font>
+            <Font name="Futura Medium" size="18.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>
